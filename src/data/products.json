@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "SPF 50+ Sunscreen Lotion",
+    "brand": "SunGuard",
+    "price": 15.99,
+    "rating": 4.8,
+    "stock": 120,
+    "category": "Skincare",
+    "image": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?q=80&w=2828&auto=format&fit=crop",
+    "description": "Broad-spectrum protection for face and body. Water-resistant for up to 80 minutes."
+  },
+  {
+    "id": "2",
+    "name": "Polarized Aviator Sunglasses",
+    "brand": "RayShade",
+    "price": 45.00,
+    "rating": 4.5,
+    "stock": 50,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?q=80&w=2000&auto=format&fit=crop",
+    "description": "Classic aviator style with polarized lenses to reduce glare and protect your eyes."
+  },
+  {
+    "id": "3",
+    "name": "Oversized Beach Towel",
+    "brand": "OceanVibe",
+    "price": 22.50,
+    "rating": 4.9,
+    "stock": 200,
+    "category": "Beach Gear",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=2000&auto=format&fit=crop",
+    "description": "Ultra-absorbent, quick-drying microfiber towel in vibrant summer patterns."
+  },
+  {
+    "id": "4",
+    "name": "Hydrating Aloe Vera Gel",
+    "brand": "NatureHeal",
+    "price": 9.99,
+    "rating": 4.7,
+    "stock": 85,
+    "category": "Skincare",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?q=80&w=2000&auto=format&fit=crop",
+    "description": "Soothing after-sun care made with 100% pure aloe vera extract."
+  },
+  {
+    "id": "5",
+    "name": "Insulated Water Bottle (32oz)",
+    "brand": "HydroChill",
+    "price": 28.00,
+    "rating": 4.6,
+    "stock": 150,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?q=80&w=2000&auto=format&fit=crop",
+    "description": "Keeps water ice-cold for 24 hours. Perfect for hot summer days."
+  },
+  {
+    "id": "6",
+    "name": "Straw Sun Hat",
+    "brand": "BreezeWear",
+    "price": 18.50,
+    "rating": 4.4,
+    "stock": 60,
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1533827432537-70133748f5c8?q=80&w=2000&auto=format&fit=crop",
+    "description": "Wide-brimmed woven straw hat providing excellent shade and breathability."
+  }
+]
