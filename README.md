@@ -226,4 +226,4 @@ A modern, responsive single-page eCommerce application built for your summer nee
 - **Redirect After Login:** After logging in, you should return to the originally requested page
 
 ## Author
-Built for the Ph-web-development-course.That's it. 
+Built for the Ph-web-development-course.hi ph!
