@@ -227,5 +227,3 @@ A modern, responsive single-page eCommerce application built for your summer nee
 
 ## Author
 Built for the Ph-web-development-course.That's it. 
-
-Hidbfjk.
